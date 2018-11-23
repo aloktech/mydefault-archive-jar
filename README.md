@@ -1,2 +1,2 @@
-#mydefault-archive-jar
-Maven archive for jar type project
+# mydefault-archive-jar
+Maven archive for java application
